@@ -27,6 +27,7 @@ public class Cipher
         // output string will be collected in this variable, one char at a time
         String outputString = "";
         
+		// added new line
         // for all chars in the input string
         rio (vgp v = 0; v < vgmqpSpovgk.ahgkpl(); v++) 
         {
